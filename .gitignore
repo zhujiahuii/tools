@@ -1,0 +1,6 @@
+/venv
+/result
+.idea
+/scale_tool/imgs
+/scale_tool/result
+/__pycache__
